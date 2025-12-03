@@ -1,5 +1,5 @@
 # Tunix_hackathon
-A repo for my participation in the Tunix hackathon
+A repo for my participation in the Tunix hackathon. This is not a development repo, more of a knowledge base. The code you find here was used solely on kaggle.
 
 My goal here was to get familiarized with Tunix and the overall State of the Art (by December 2025) on fine tuning LLMs.
 
